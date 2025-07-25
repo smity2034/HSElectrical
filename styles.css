@@ -123,6 +123,7 @@ header {
     height: auto;
     border-radius: 8px;
 }
+
 .hero {
   background: url('https://images.unsplash.com/photo-1606220838310-bc9270c14b1e?auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
   padding: 100px 20px;
